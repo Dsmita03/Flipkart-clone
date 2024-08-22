@@ -1,5 +1,12 @@
+# FLIPKART CLONE
 
-This project is a clone of the popular e-commerce website Flipkart, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). The application includes features such as user authentication, product browsing, shopping cart, and order management.
- 
 
- 
+## TECHNOLOGIES USED
+mail: SenderGrid,
+image storage: Cloudinary,
+Payment gateway: Razorpay
+Api :JWT
+
+
+## FEATURES
+
